@@ -126,13 +126,4 @@ The **HR Analytics Dashboard** is a powerful tool that provides valuable insight
 
 ---
 
-### 📂 Files
 
-- **HR_Analytics_Dashboard.pbix**: The Power BI file containing the dashboard.
-- **HR_Analytics_Dashboard.pdf**: A PDF version of the dashboard for easy sharing.
-
----
-
-### 🔗 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
